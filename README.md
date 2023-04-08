@@ -7,11 +7,10 @@ Immersed is a web application that offers immersive, kid-friendly, and safe cybe
 
 <h3>Why can't I access all of the code for Immersed?</h3>
 <p>
-As Immersed is currently in its Minimum Viable Product (MVP) stage, I am unable to provide full access to the proprietary code. However, I am happy to share select code snippets from my contributions to the project.
+As Immersed is currently in its Minimum Viable Product (MVP) stage, I am unable to provide full access to the proprietary code. However, I am happy to share select code snippets from my contributions to the project, as well as screenshots that showcase my specific part of the application. This will give you a better understanding of the functionality I have implemented and how it contributes to the overall project.
 </p>
 
 <h3>What was my role in the project?</h3>
-
 <p>
 As a key member of the team, I oversaw the implementation of both the system administrator view of the survey landing page and the user view of taking the survey.
 </p>
